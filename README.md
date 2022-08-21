@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm El Moudden Noura</h1>
+<h1 align="center">Hi 👋, I'm Noura El Moudden</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 
